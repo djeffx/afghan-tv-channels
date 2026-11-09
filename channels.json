@@ -1,17 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-11-09T20:37:07.764070+00:00",
+  "revision": 2,
+  "updatedAt": "2026-11-09T20:58:14.219729+00:00",
   "channels": [
     {
       "page": "https://afghanlive.tv/afghanistan-tv-live/",
-      "name": "Afghanistan TV Live",
+      "name": "Afghanistan International",
       "streams": [
         {
           "url": "https://hls.afintl.com/hls/stream.m3u8"
-        },
-        {
-          "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8"
         }
       ]
     },
@@ -41,7 +38,7 @@
           "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8"
         },
         {
-          "url": "https://hls.afintl.com/hls/stream.m3u8"
+          "url": "https://jmc-live.ercdn.net/amutvbu/amutvbu_720p.m3u8"
         }
       ]
     },
@@ -51,9 +48,6 @@
       "streams": [
         {
           "url": "https://hrt-stream.movie.af/live/smil:lemartv.smil/playlist.m3u8"
-        },
-        {
-          "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"
         }
       ]
     },
@@ -81,9 +75,6 @@
       "streams": [
         {
           "url": "https://hrt-stream.movie.af/live/smil:shamshadtv.smil/playlist.m3u8"
-        },
-        {
-          "url": "https://5a1178b42cc03.streamlock.net:443/shamshadtelevision/shamshadtelevision/playlist.m3u8"
         }
       ]
     },
@@ -95,7 +86,11 @@
     {
       "page": "https://afghanlive.tv/arezo-tv-live/",
       "name": "Arezo tv Live",
-      "streams": []
+      "streams": [
+        {
+          "url": "https://hrt-stream.movie.af/live/smil:arezotv.smil/playlist.m3u8"
+        }
+      ]
     },
     {
       "page": "https://afghanlive.tv/tamadon-tv-live/",
@@ -103,6 +98,9 @@
       "streams": [
         {
           "url": "https://hlst.tamadon.live/hls/stream.m3u8"
+        },
+        {
+          "url": "https://hls.tamadon.live/hls/stream.m3u8"
         }
       ]
     },
@@ -111,7 +109,7 @@
       "name": "Ariana News TV Live",
       "streams": [
         {
-          "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8"
+          "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
         }
       ]
     },
@@ -127,11 +125,7 @@
     {
       "page": "https://afghanlive.tv/maawj-tv-live/",
       "name": "Maawj Tv Live",
-      "streams": [
-        {
-          "url": "https://maawjhls.wns.live/hls/stream.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/begum-tv-live/",
@@ -146,50 +140,31 @@
     {
       "page": "https://afghanlive.tv/chekad-tv-live/",
       "name": "Chekad Tv Live",
-      "streams": [
-        {
-          "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/towheed-tv-live/",
       "name": "Towheed Tv Live",
-      "streams": [
-        {
-          "url": "https://vsd236.okcdn.ru/hls/8992024758899.m3u8/sig/bZr_2klT8JA/expires/1794328894576/srcIp/159.26.104.30/urls/185.180.203.109/clientType/0/srcAg/UNKNOWN/mid/10212649148019/video.m3u8?p"
-        },
-        {
-          "url": "https://vsd236.okcdn.ru/hls/8992024758899_offset_p.m3u8/sig/bZr_2klT8JA/expires/1794328894576/srcIp/159.26.104.30/urls/185.180.203.109/clientType/0/srcAg/UNKNOWN/mid/10212649148019/video.m3u8?p"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/zarin-tv-live/",
       "name": "Zarin Tv Live",
       "streams": [
         {
-          "url": "https://sfo1.angelthump.com/hls/MjAyMi0wNS0yOVQwNzo0NToxNC4xMzZaemFyaW4=_zarin/index.m3u8"
+          "url": "https://rpn3.bozztv.com/cus01/esh-zarintv-push/esh-zarintv-push/index.m3u8"
         }
       ]
     },
     {
       "page": "https://afghanlive.tv/deeyar-tv-live/",
       "name": "Deeyar TV Live",
-      "streams": [
-        {
-          "url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/sharq-tv/",
       "name": "Sharq TV",
-      "streams": [
-        {
-          "url": "https://stream.snexus.co/live/SN_ISLAMIC/index.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/dunya-naw-tv/",
@@ -203,38 +178,22 @@
     {
       "page": "https://afghanlive.tv/bahar-tv-live-afghan-tv-channel-in-usa/",
       "name": "Bahar TV Live",
-      "streams": [
-        {
-          "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/hasti-tv/",
       "name": "Hasti TV Live",
-      "streams": [
-        {
-          "url": "https://live.hastitv.com/hls/livetv.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/faza-tv-live/",
       "name": "Faza TV Live",
-      "streams": [
-        {
-          "url": "https://stream2.removie.raha.af/live/smil:fazatv.smil/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/maarif-tv-live/",
       "name": "Maarif TV Live",
-      "streams": [
-        {
-          "url": "https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/afghan-tv/",
@@ -258,14 +217,7 @@
     {
       "page": "https://afghanlive.tv/ayna-tv-live/",
       "name": "Ayna TV Live",
-      "streams": [
-        {
-          "url": "https://hls.afintl.com/hls/stream.m3u8"
-        },
-        {
-          "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/enikass-tv-live/",
@@ -280,23 +232,12 @@
     {
       "page": "https://afghanlive.tv/noor-tv-afghanistan/",
       "name": "Noor TV Afghanistan Live",
-      "streams": [
-        {
-          "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/hewad-tv-live/",
       "name": "Hewad TV Live",
-      "streams": [
-        {
-          "url": "https://hrt-stream.movie.af/live/smil:shamshadtv.smil/playlist.m3u8"
-        },
-        {
-          "url": "https://5a1178b42cc03.streamlock.net:443/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/zan-tv-live/",
@@ -315,11 +256,7 @@
     {
       "page": "https://afghanlive.tv/negaah-tv-live-online-afghanistan/",
       "name": "Negaah TV Live Online",
-      "streams": [
-        {
-          "url": "https://hlst.tamadon.live/hls/stream.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/kabul-tv-us-live/",
@@ -329,29 +266,17 @@
     {
       "page": "https://afghanlive.tv/mitra-tv-live/",
       "name": "Mitra TV Live",
-      "streams": [
-        {
-          "url": "https://hrt-stream.movie.af/live/smil:1tv.smil/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/asr-tv-live/",
       "name": "Asr TV Live",
-      "streams": [
-        {
-          "url": "https://hrt-stream.movie.af/live/smil:1tv.smil/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/jahan-tv-live-online-afghanistan/",
       "name": "Jahan Tv Live Afghanistan",
-      "streams": [
-        {
-          "url": "https://liveproxy.splus.ir/hls/varzesh/varzesh.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/maiwand-tv-live/",
@@ -366,26 +291,12 @@
     {
       "page": "https://afghanlive.tv/tuti-tv-live-online/",
       "name": "Tuti TV Live Online",
-      "streams": [
-        {
-          "url": "https://hls.afintl.com/hls/stream.m3u8"
-        },
-        {
-          "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/kabul-news-tv-live/",
       "name": "Kabul News tv Live",
-      "streams": [
-        {
-          "url": "https://hrt-stream.movie.af/live/smil:shamshadtv.smil/playlist.m3u8"
-        },
-        {
-          "url": "https://5a1178b42cc03.streamlock.net:443/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-        }
-      ]
+      "streams": []
     },
     {
       "page": "https://afghanlive.tv/sada-e-afghanistan-tv/",
@@ -395,7 +306,11 @@
     {
       "page": "https://afghanlive.tv/peace-tv/",
       "name": "Peace TV",
-      "streams": []
+      "streams": [
+        {
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+        }
+      ]
     }
   ]
 }
