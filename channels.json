@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
-  "updatedAt": "2026-11-09T20:58:14.219729+00:00",
+  "revision": 3,
+  "updatedAt": "2026-11-09T21:06:30.166461+00:00",
   "channels": [
     {
       "page": "https://afghanlive.tv/afghanistan-tv-live/",
@@ -79,28 +79,11 @@
       ]
     },
     {
-      "page": "https://afghanlive.tv/zhwandoon-live-tv/",
-      "name": "Zhwandoon Live TV",
-      "streams": []
-    },
-    {
       "page": "https://afghanlive.tv/arezo-tv-live/",
       "name": "Arezo tv Live",
       "streams": [
         {
           "url": "https://hrt-stream.movie.af/live/smil:arezotv.smil/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "page": "https://afghanlive.tv/tamadon-tv-live/",
-      "name": "Tamadon TV Live",
-      "streams": [
-        {
-          "url": "https://hlst.tamadon.live/hls/stream.m3u8"
-        },
-        {
-          "url": "https://hls.tamadon.live/hls/stream.m3u8"
         }
       ]
     },
@@ -123,42 +106,8 @@
       ]
     },
     {
-      "page": "https://afghanlive.tv/maawj-tv-live/",
-      "name": "Maawj Tv Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/begum-tv-live/",
-      "name": "Begum Tv Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/khurshid-tv/",
-      "name": "Khurshid TV",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/chekad-tv-live/",
-      "name": "Chekad Tv Live",
-      "streams": []
-    },
-    {
       "page": "https://afghanlive.tv/towheed-tv-live/",
       "name": "Towheed Tv Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/zarin-tv-live/",
-      "name": "Zarin Tv Live",
-      "streams": [
-        {
-          "url": "https://rpn3.bozztv.com/cus01/esh-zarintv-push/esh-zarintv-push/index.m3u8"
-        }
-      ]
-    },
-    {
-      "page": "https://afghanlive.tv/deeyar-tv-live/",
-      "name": "Deeyar TV Live",
       "streams": []
     },
     {
@@ -178,129 +127,6 @@
     {
       "page": "https://afghanlive.tv/bahar-tv-live-afghan-tv-channel-in-usa/",
       "name": "Bahar TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/hasti-tv/",
-      "name": "Hasti TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/faza-tv-live/",
-      "name": "Faza TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/maarif-tv-live/",
-      "name": "Maarif TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/afghan-tv/",
-      "name": "Afghan TV",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/barya-tv-live/",
-      "name": "Barya TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/eslah-tv-live/",
-      "name": "Eslah TV Live",
-      "streams": [
-        {
-          "url": "https://eslahtvhls.wns.live/hls/stream.m3u8"
-        }
-      ]
-    },
-    {
-      "page": "https://afghanlive.tv/ayna-tv-live/",
-      "name": "Ayna TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/enikass-tv-live/",
-      "name": "Enikass TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/batur-tv-live/",
-      "name": "Batur TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/noor-tv-afghanistan/",
-      "name": "Noor TV Afghanistan Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/hewad-tv-live/",
-      "name": "Hewad TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/zan-tv-live/",
-      "name": "Zan TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/kayhan-tv-live/",
-      "name": "Kayhan TV Live",
-      "streams": [
-        {
-          "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "page": "https://afghanlive.tv/negaah-tv-live-online-afghanistan/",
-      "name": "Negaah TV Live Online",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/kabul-tv-us-live/",
-      "name": "Kabul Tv US Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/mitra-tv-live/",
-      "name": "Mitra TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/asr-tv-live/",
-      "name": "Asr TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/jahan-tv-live-online-afghanistan/",
-      "name": "Jahan Tv Live Afghanistan",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/maiwand-tv-live/",
-      "name": "Maiwand TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/baano-tv-live/",
-      "name": "Baano TV Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/tuti-tv-live-online/",
-      "name": "Tuti TV Live Online",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/kabul-news-tv-live/",
-      "name": "Kabul News tv Live",
-      "streams": []
-    },
-    {
-      "page": "https://afghanlive.tv/sada-e-afghanistan-tv/",
-      "name": "Sada E Afghanistan TV",
       "streams": []
     },
     {
